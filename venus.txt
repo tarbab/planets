@@ -1,4 +1,7 @@
 so feminine.
 yes.
+<<<<<<< HEAD
 so.
 change.
+=======
+>>>>>>> parent of 4c0f9c9... adding venus
